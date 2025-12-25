@@ -1,0 +1,17 @@
+# GAIN Foundation Security Policy
+# https://securitytxt.org/
+
+Contact: mailto:security@gainfoundation.org
+Expires: 2026-12-31T23:59:59.000Z
+Encryption: https://gainfoundation.org/.well-known/pgp-key.txt
+Preferred-Languages: en
+Canonical: https://gainfoundation.org/.well-known/security.txt
+Policy: https://gainfoundation.org/security
+
+# Acknowledgments
+# Security researchers who responsibly disclose vulnerabilities
+# will be acknowledged here (with permission).
+
+# Response Commitment
+# We aim to respond to security reports within 48 hours.
+# We do not pursue legal action against good-faith researchers.
